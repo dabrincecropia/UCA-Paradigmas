@@ -2,11 +2,11 @@
     Primera clase de Typescript en Paradigmas de Programacion
     Profesor: Dabrin Najera
     Fecha: 22/08/2019
-    Autor: Dabrin Najera.
+    Autor: Dabrin Najera
 */
 
 //Cuales palabras reservadas existen en TS para declarar alguna variable o constante?
-// let, var, const
+// let, var, const s
 var age:number;
 var firstName:string;
 var lastName:string;
@@ -77,5 +77,9 @@ function validarSiEsRectangulo(base:number,altura:number){
 decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5,5.000000001);
 
+/* Hola Profe Diego esto es una prueba */
 
 //ggtadm/ prueba
+//Esto es una prueba para que vean que si funciona el git
+//Esto es una prueba del branch mío, de José Andrés
+// Allan Allan Allan Allan Allan

@@ -69,3 +69,4 @@ function validarSiEsRectangulo(base, altura) {
 }
 decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5, 5.000000001);
+// Hola Allan aca // 

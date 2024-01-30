@@ -78,4 +78,4 @@ decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5,5.000000001);
 
 
-ggtadm/ prueba
+//ggtadm/ prueba

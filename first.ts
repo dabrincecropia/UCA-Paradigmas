@@ -78,4 +78,4 @@ decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5,5.000000001);
 
 
-//Esto es una prueba del branch mío
+//Esto es una prueba del branch mío, de José Andrés

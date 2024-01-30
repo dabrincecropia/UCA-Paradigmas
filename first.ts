@@ -77,4 +77,4 @@ function validarSiEsRectangulo(base:number,altura:number){
 decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5,5.000000001);
 
-
+// Allan Allan Allan Allan Allan

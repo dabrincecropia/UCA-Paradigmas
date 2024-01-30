@@ -1,4 +1,4 @@
-/* TODO ESTO ES UN COMENTATIP a
+/* TODO ESTO ES UN COMENTATIP
     Primera clase de Typescript en Paradigmas de Programacion
     Profesor: Dabrin Najera
     Fecha: 22/08/2019

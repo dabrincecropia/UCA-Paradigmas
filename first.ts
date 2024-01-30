@@ -77,4 +77,6 @@ function validarSiEsRectangulo(base:number,altura:number){
 decidirQueVoyAMostrar(40);
 validarSiEsRectangulo(5,5.000000001);
 
+
+//Esto es una prueba del branch mío, de José Andrés
 // Allan Allan Allan Allan Allan

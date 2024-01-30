@@ -6,7 +6,7 @@
 */
 
 //Cuales palabras reservadas existen en TS para declarar alguna variable o constante?
-// let, var, const
+// let, var, const s
 var age:number;
 var firstName:string;
 var lastName:string;

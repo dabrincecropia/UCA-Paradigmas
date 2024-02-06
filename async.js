@@ -1,4 +1,4 @@
-///Declaracion de variables para los calculos siguientes //
+///Declaracion de variables para los calculos siguientes, estas son las variables que vamos a utilizar con valores ya declarados para las siguientes funciones ///
 
 lado = 10;
 longitud = 10;
@@ -8,30 +8,40 @@ altura = 10;
 radio = 20;
 pi = 3.14
 
-// Funciones de operacion //
+// Funciones de operacion, aqui indicamos las funciones de cada una de las operaciones//
+
+// Operacion Area de un Cuadrado //
 
 function AreaCuadrado(lado) {
     return lado * lado;
 }
 
+// Operacion Perimetro de un rectangulo //
+
 function PerimetroRectangulo (longitud,ancho){
     return longitud *2 +ancho *2;
 }
+
+// Operacion Area de un Triangulo //
 
 function AreaTriangulo (base,altura) {
     return (base*altura)/2;
 }
 
+// Operacion longitud de la circunferencia //
+
 function LongitudCircunferencia (pi,radio) {
     return (2*pi) * radio;
 }
+
+// Operacion area de un circulo //
 
 
 function AreaCirculo (pi,radio) {
     return pi*(radio*2);
 }
 
-// Funciones de mostrar resultados //
+// Funciones de mostrar resultados, aqui llamamos mediante el console log las funciones anteriormente realizadas para mostrar los resultados //
 
 // Calcular el Area de un Cuadrado //
 
